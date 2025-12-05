@@ -1,0 +1,2 @@
+CADs filter=lfs diff=lfs merge=lfs -text
+STLs filter=lfs diff=lfs merge=lfs -text
