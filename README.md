@@ -41,8 +41,8 @@ a low profile pointer peripheral with 17 switches.
 |2|4.75mm Steel Ball|
 |6|Neodymium Disc Magnets 3x1mm (Diameter x Thick)|
 |1|MSK-1153 6 Pins Power Switch|
-|12|M2x5 Screw|
-|4|M2x9 Screw|
+|12|M2x6 Countersunk Socket Screw|
+|4|M2x10 Countersunk Socket Screw|
 |1|601230 Lipo Battery (plus connector)|
 |1|30/28/26 AWG silicone wire|
 |8|Anti slip silicone rubber adhesive pads|
