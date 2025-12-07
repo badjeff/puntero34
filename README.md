@@ -34,17 +34,17 @@ a low profile pointer peripheral with 17 switches.
 ### bom
 |unit|item|
 |-|-|
-|1|Seeed Studio XIAO BLE (nRF52840)|
-|1|PAT9125EL-TKIT Sensor [Breakout Board](https://github.com/badjeff/pat9125el-pcb)|
+|2|Seeed Studio XIAO BLE (nRF52840)|
+|2|PAT9125EL-TKIT Sensor [Breakout Board](https://github.com/badjeff/pat9125el-pcb)|
 |34|Kailh PG1353 Choc v2 Switch|
 |34|Kailh PG1350 Choc Switch Socket|
 |34|1N4148W T4 SOD-123 Diode|
 |2|4.75mm Steel Ball|
 |6|Neodymium Disc Magnets 3x1mm (Diameter x Thick)|
-|1|MSK-1153 6 Pins Power Switch|
+|2|MSK-1153 6 Pins Power Switch|
 |12|M2x6 Countersunk Socket Screw|
 |4|M2x10 Countersunk Socket Screw|
-|1|601230 Lipo Battery (plus connector)|
+|2|601230 Lipo Battery (plus connector)|
 |1|30/28/26 AWG silicone wire|
 |8|Anti slip silicone rubber adhesive pads|
 
