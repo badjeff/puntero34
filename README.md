@@ -28,6 +28,7 @@ a low profile pointer peripheral with 17 switches.
 <img src="./imgs/w4.png.webp" width="233">
 <img src="./imgs/w5.png.webp" width="233">
 <img src="./imgs/w6.png.webp" width="233">
+<img src="./imgs/wdongle.png.webp" width="233">
 </p>
 
 ### bom
