@@ -57,7 +57,7 @@ a low profile pointer peripheral with 17 switches.
 
 ### firmware
 
-the ZMK firmware config repository can be find at [here](https://github.com/badjeff/zmk-config/tree/core/move-to-zephyr-4-1/config/boards/shields/puntero34).
+the ZMK firmware config repository can be find at [here](https://github.com/badjeff/zmk-config/tree/main/config/boards/shields/puntero34).
 
 
 ## license
